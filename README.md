@@ -1,4 +1,4 @@
-# kicker_app
+# foosball_app
 
 A new Flutter project.
 
